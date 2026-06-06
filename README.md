@@ -7,7 +7,7 @@ Nombre: Paloma Larraín Pereira
 ## Descripción general del sistema
 
 Proyecto desarrollado en Java como prototipo inicial para la digitalización de procesos de la agencia turística ficticia Llanquihue Tour.
-El sistema busca representar, mediante programación orientada a objetos, a las personas vinculadas a la organización, como clientes y empleados, evitando la duplicación de información y permitiendo una estructura más ordenada para futuras etapas de desarrollo.
+El sistema busca representar, mediante programación orientada a objetos, a las personas vinculadas a la empresa (como clientes y empleados), evitando la duplicación de información y permitiendo una estructura más ordenada para futuras etapas de desarrollo.
 
 
 ## Estructura general del proyecto
@@ -29,7 +29,7 @@ src/
 Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/LlanquihueTour.git
+git clone https://github.com/lolarrain/LlanquihueTour.git
 ```
 Abre el proyecto en IntelliJ IDEA.
 
