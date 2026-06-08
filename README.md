@@ -29,7 +29,7 @@ src/
 Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/LlanquihueTour.git
+git clone https://github.com/lolarrain/LlanquihueTour.git
 ```
 Abre el proyecto en IntelliJ IDEA.
 
@@ -44,4 +44,4 @@ El programa mostrará en consola los datos de las personas vinculadas a Llanquih
 
 Repositorio GitHub: [https://github.com/lolarrain/LlanquihueTour]
 
-Fecha de entrega: [05/06/2026]
+Fecha de entrega: [08/06/2026]

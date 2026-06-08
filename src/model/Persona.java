@@ -2,7 +2,7 @@ package model;
 
 /**
  * Clase base que representa a una persona vinculada a Llanquihue Tour.
- * Puede ser usada como base para clientes, empleados, guias u otros roles.
+ * Puede ser usada como base para clientes, empleados u otros roles.
  */
 public class Persona {
 
